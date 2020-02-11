@@ -1,0 +1,15 @@
+{
+    "host": "http://c0.xola.local",
+    "devApiKey": "your_api_key",
+    "featureNames": [
+        "lost_lead",
+        "facebook_pixel_tracking",
+        "invoicing",
+        "mobile_payments",
+        "analytics",
+        "report_templates",
+        "custom_notification_timing",
+        "embedded_checkout"
+    ],ß
+    "sellerIds": ["5d22e9df5c620b130a66e263"]
+}
